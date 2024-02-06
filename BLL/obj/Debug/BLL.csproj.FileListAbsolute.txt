@@ -1,0 +1,33 @@
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\BLL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\obj\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\BLL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\BLL\obj\Debug\BLL.pdb

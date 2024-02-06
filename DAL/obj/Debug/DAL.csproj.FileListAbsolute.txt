@@ -1,0 +1,27 @@
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\obj\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DAL\obj\Debug\DAL.pdb

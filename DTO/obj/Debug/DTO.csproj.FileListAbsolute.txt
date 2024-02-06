@@ -1,0 +1,18 @@
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\obj\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\obj\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,93 @@
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChu.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.Properties.Resources.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.GenerateResource.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangKy.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangNhap.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe.config
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.exe
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DoiMatKhau.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhaCungCap.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyKhachHang.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChiNhanh.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChuongTrinhKhuyenMai.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyTaiKhoan.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyLoaiSanPham.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhanVien.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLySanPham.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyHoaDon.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuBH.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuQL.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangKy.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangNhap.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DoiMatKhau.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChiNhanh.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChuongTrinhKhuyenMai.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyHoaDon.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyKhachHang.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyLoaiSanPham.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhaCungCap.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhanVien.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLySanPham.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyTaiKhoan.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuBH.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuQL.resources
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.exe
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe.config
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.dll
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.pdb
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CopyComplete
+C:\Users\Administrator\Downloads\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyHoanTra.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe.config
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.exe
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\QLBH_MIEU.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.dll
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\BLL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DTO.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\bin\Debug\DAL.pdb
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csprojAssemblyReference.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangKy.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DangNhap.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.DoiMatKhau.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChiNhanh.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyChuongTrinhKhuyenMai.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyHoaDon.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyHoanTra.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyKhachHang.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyLoaiSanPham.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhaCungCap.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyNhanVien.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLySanPham.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.QuanLyTaiKhoan.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.Properties.Resources.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuBH.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.TrangChuQL.resources
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.GenerateResource.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CoreCompileInputs.cache
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.csproj.CopyComplete
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.exe
+J:\Mỹ Duyên\STUDY\UEH\HKV\ĐACK DESKTOP\QLBH_MIEU\QLBH_MIEU\QLBH_MIEU\obj\Debug\QLBH_MIEU.pdb
